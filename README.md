@@ -8,5 +8,5 @@ Contact: contact@minimalpulse.com
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Okay%20bye😝&animation=fadeIn&reversal=true&textBg=false&rotate=0&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=😝&animation=fadeIn&reversal=true&textBg=false&rotate=0&section=footer"/>
 </p>
